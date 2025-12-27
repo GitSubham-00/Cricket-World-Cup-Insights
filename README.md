@@ -99,14 +99,6 @@ Data was manually cleaned and structured into multiple tables using **Google She
 
 ---
 
-## 📤 Submission Details
-
-- **Submission Type:** Google Looker Studio Report (Shared Link)
-- **Access Level:** Viewer
-- **Deliverable:** Interactive BI dashboard (no separate documentation required)
-
----
-
 ## 📈 Key Learnings
 
 - Hands-on experience with **BI tools**
