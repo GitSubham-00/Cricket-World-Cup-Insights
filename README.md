@@ -21,6 +21,7 @@ The primary objective of this project is to:
 The dataset used in this project is collected from publicly available cricket statistics:
 
 - **Wikipedia – Cricket World Cup Records**
+**Link** - https://en.wikipedia.org/wiki/Cricket_World_Cup
 
 Data was manually cleaned and structured into multiple tables using **Google Sheets** before being connected to Looker Studio.
 
